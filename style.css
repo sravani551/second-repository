@@ -1,0 +1,23 @@
+
+.username{
+    font-family:Arial;
+    color: cadetblue;
+}
+
+h1{
+    text-align: center;
+}
+#so{
+    text-align: center;
+}
+img {
+    float: left; /* Aligns the image to the left */
+    margin-right: 10px; /* Adds space between the image and paragraph */
+}
+div{
+    text-align: center;
+    margin: 20px;
+    color: rgb(225, 139, 34);
+    padding: 2px;
+    min-height: 10px;
+}
